@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Features for product zl1 -->
+<permissions>
+<feature name="share.show_zl1_logo"/>
+<feature name="common.platform_is_qcom"/>
+<feature name="deskclock_not_support_gesture"/>
+<feature name="soft_mute_key"/>
+<feature name="settings.vibrate_global_enabled"/>
+<feature name="settings.dolby_dap_enabled"/>
+<feature name="modem.cellular_txpower_rollback_x2"/>
+<feature name="leui_feature_nfc_beam"/>
+<feature name="settings.single_simcard_zl1"/>
+<feature name="mediaplayer.use_new_engine_for_8996"/>
+<feature name="le_geature_geo_fence_support"/>
+<feature name="zl1_gallery_sticker_disable_beauty_shot"/>
+</permissions>
